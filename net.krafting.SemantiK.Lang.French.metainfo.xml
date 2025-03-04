@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component type="addon">
   <id>net.krafting.SemantiK.Lang.French</id>
+  <extends>net.krafting.SemantiK</extends>
   <name>SemantiK French Language Pack</name>
   <summary>French language pack for SemantiK</summary>
   <summary xml:lang="fr">Pack de langue française pour SemantiK</summary>

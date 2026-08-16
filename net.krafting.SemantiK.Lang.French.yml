@@ -16,8 +16,8 @@ modules:
         path: net.krafting.SemantiK.Lang.French.metainfo.xml
       - type: git
         url: https://gitlab.com/Krafting/semantik-gtk
-        tag: 1.7.3
-        commit: c918d4a9712633baca5f7dfbc01c932325fe43df
+        tag: 1.7.5
+        commit: 55d5102121fd60db1a8db882e26531a852186965
         x-checker-data: {type: git, tag-pattern: '^([\d.]+)$'}
 
   - name: French_Model_File
